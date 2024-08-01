@@ -35,3 +35,4 @@ build/
 ### custom ###
 credentials.json
 StoredCredential
+application-GOOGLE.yaml
